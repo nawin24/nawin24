@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nawin24
 - 👀 I’m interested in data analyst
-- 🌱 I’m currently working as  Junior Mern Stack developer
+- 🌱 I’m currently working as  Full Stack developer
 - 📫 How to reach me @nawinbg24@gmail.com
 - 😄 Pronouns: He/Him
 
