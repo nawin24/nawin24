@@ -129,7 +129,6 @@ I enjoy working across the full development lifecycle — from responsive fronte
     height="180"
     alt="GitHub Statistics"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawin24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="180"
@@ -143,13 +142,13 @@ I enjoy working across the full development lifecycle — from responsive fronte
 
 <p align="center">
   <img
-    src="./profile/streak.svg"
-    alt="GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com/?user=nawin24&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
-  🔥 <b>Highest Streak: 7 Days</b>
+  <b>🔥 Highest Streak: 7 Days</b>
 </p>
 
 ---
@@ -179,10 +178,11 @@ I enjoy working across the full development lifecycle — from responsive fronte
     />
     <img
       src="https://raw.githubusercontent.com/nawin24/nawin24/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
+      alt="GitHub Contribution Snake Animation"
     />
   </picture>
 </p>
+
 ---
 
 # 🌱 Currently Exploring
@@ -222,7 +222,7 @@ Cloud & Firebase           ████████████████░�
              💡 IDEA
                 │
                 ▼
-          🎨 DESIGN
+           🎨 DESIGN
                 │
                 ▼
        💻 DEVELOPMENT
