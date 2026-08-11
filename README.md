@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nawin
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+TypeScript;Python+%7C+AI+%26+Machine+Learning;Flutter+%7C+Firebase+Developer;Building+Modern+Web+%26+Mobile+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+TypeScript;Python+%7C+AI+%26+Machine+Learning;Flutter+%7C+Firebase+Developer;Building+Modern+Web+%26+Mobile+Applications" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -14,6 +14,8 @@
 
 I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate about building modern, scalable and user-focused applications.
 
+I enjoy working across the full development lifecycle — from creating responsive interfaces to developing backend systems, APIs, databases and cloud-integrated applications.
+
 * 💻 Full Stack Developer at **Zentroworld**
 * ⚛️ React, JavaScript & TypeScript
 * 🐍 Python & AI/ML
@@ -21,59 +23,94 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 * 🗄️ PostgreSQL, MongoDB & SQL
 * 🔥 Firebase
 * 🎨 Bootstrap
-* 🚀 Interested in scalable application architecture
+* 🌐 Modern Web Development
+* 🚀 Full Stack Application Development
 * 🌱 Always learning and building
 
 ---
 
 # 💻 Tech Stack
 
-### 🌐 Frontend
+## 🌐 Frontend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" />
 </p>
 
-### ⚙️ Backend & Programming
+<p align="center">
+  <b>React • JavaScript • TypeScript • HTML • CSS • Bootstrap</b>
+</p>
+
+---
+
+## ⚙️ Backend & Programming
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,dart" />
 </p>
 
-### 📱 Mobile
+<p align="center">
+  <b>Python • JavaScript • TypeScript • Dart</b>
+</p>
+
+---
+
+## 📱 Mobile Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### 🤖 AI & Machine Learning
+<p align="center">
+  <b>Flutter • Dart</b>
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`Python` `AI` `Machine Learning`
+<p align="center">
+  <b>Python • Artificial Intelligence • Machine Learning</b>
+</p>
 
-### 🗄️ Databases
+---
+
+## 🗄️ Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
-`PostgreSQL` `MongoDB` `SQL`
+<p align="center">
+  <b>PostgreSQL • MongoDB • SQL</b>
+</p>
 
-### ☁️ Backend & Cloud
+---
+
+## 🔥 Cloud & Backend Services
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
-`Firebase` `Authentication` `Cloud Services`
+<p align="center">
+  <b>Firebase • Authentication • Cloud Services</b>
+</p>
 
-### 🛠️ Tools
+---
+
+## 🛠️ Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" />
+</p>
+
+<p align="center">
+  <b>Git • GitHub • VS Code • Postman • Android Studio</b>
 </p>
 
 ---
@@ -81,8 +118,18 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawin24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawin24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=nawin24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+<img
+ src="https://github-readme-stats.shion.dev/api/top-langs/?username=nawin24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+ height="180"
+ alt="Top Languages"
+/>
+
 </p>
 
 ---
@@ -90,15 +137,14 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nawin24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=nawin24&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
----
-
-# 🐍 Contribution Animation
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nawin24/nawin24/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <b>🔥 Highest Streak: 7 Days</b>
 </p>
 
 ---
@@ -106,7 +152,36 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawin24&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nawin24&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nawin24/nawin24/output/github-snake-dark.svg"
+    />
+
+```
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/nawin24/nawin24/output/github-snake.svg"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/nawin24/nawin24/output/github-snake.svg"
+  alt="GitHub Contribution Snake Animation"
+/>
+```
+
+  </picture>
 </p>
 
 ---
@@ -118,9 +193,9 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 `⚛️ Advanced React` •
 `📘 TypeScript` •
 `🐍 Python` •
-`🤖 AI/ML` •
+`🤖 AI / ML` •
 `📱 Flutter` •
-`☁️ Firebase` •
+`🔥 Firebase` •
 `🗄️ PostgreSQL` •
 `🍃 MongoDB`
 
@@ -142,36 +217,72 @@ Cloud & Firebase           ████████████████░�
 
 ---
 
+# 🔄 My Development Workflow
+
+```text
+       💡 Idea
+         │
+         ▼
+    🎨 Design
+         │
+         ▼
+   💻 Development
+         │
+         ▼
+    🧪 Testing
+         │
+         ▼
+    🚀 Deployment
+         │
+         ▼
+    📊 Improve
+         │
+         └──────────────► 🔁 Repeat
+```
+
+---
+
+# 💭 Developer Philosophy
+
+> **Build. Learn. Improve. Repeat.**
+
+I believe that every line of code is an opportunity to learn something new and every project is an opportunity to become a better developer.
+
+---
+
 # 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:nawinbg24@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/nawin24">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/nawin-b-5829b1254/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-# 💭 Developer Quote
+# 💭 Random Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Developer Quote"
+  />
 </p>
 
 ---
 
 <p align="center">
-  <b>🚀 Build. Learn. Improve. Repeat.</b>
+  <b>🚀 Building Today • Learning Everyday • Creating Tomorrow</b>
 </p>
 
 <p align="center">
