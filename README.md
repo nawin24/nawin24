@@ -20,19 +20,6 @@
 
 I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate about building modern, scalable and user-focused applications.
 
-I enjoy working across the full development lifecycle — from responsive frontend interfaces to backend systems, APIs, databases and cloud-integrated applications.
-
-* 💻 Full Stack Developer at **Zentroworld**
-* ⚛️ React, JavaScript & TypeScript
-* 🐍 Python & AI/ML
-* 📱 Flutter & Dart
-* 🗄️ PostgreSQL, MongoDB & SQL
-* 🔥 Firebase
-* 🎨 Bootstrap
-* 🌐 Modern Web Development
-* 🚀 Full Stack Application Development
-* 🌱 Always learning and building
-
 ---
 
 # 💻 Tech Stack
