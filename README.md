@@ -1,11 +1,17 @@
 # 👋 Hi, I'm Nawin
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+TypeScript;Python+%7C+AI+%26+Machine+Learning;Flutter+%7C+Firebase+Developer;Building+Modern+Web+%26+Mobile+Applications" alt="Typing Animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+TypeScript;Python+%7C+AI+%26+Machine+Learning;Flutter+%7C+Firebase+Developer;Building+Modern+Web+%26+Mobile+Applications"
+    alt="Typing Animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nawin24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=nawin24&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -14,7 +20,7 @@
 
 I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate about building modern, scalable and user-focused applications.
 
-I enjoy working across the full development lifecycle — from creating responsive interfaces to developing backend systems, APIs, databases and cloud-integrated applications.
+I enjoy working across the full development lifecycle — from responsive frontend interfaces to backend systems, APIs, databases and cloud-integrated applications.
 
 * 💻 Full Stack Developer at **Zentroworld**
 * ⚛️ React, JavaScript & TypeScript
@@ -31,7 +37,7 @@ I enjoy working across the full development lifecycle — from creating responsi
 
 # 💻 Tech Stack
 
-## 🌐 Frontend Development
+### 🌐 Frontend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" />
@@ -43,7 +49,7 @@ I enjoy working across the full development lifecycle — from creating responsi
 
 ---
 
-## ⚙️ Backend & Programming
+### ⚙️ Backend & Programming
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,dart" />
@@ -55,7 +61,7 @@ I enjoy working across the full development lifecycle — from creating responsi
 
 ---
 
-## 📱 Mobile Development
+### 📱 Mobile Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
@@ -67,7 +73,7 @@ I enjoy working across the full development lifecycle — from creating responsi
 
 ---
 
-## 🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
@@ -79,7 +85,7 @@ I enjoy working across the full development lifecycle — from creating responsi
 
 ---
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
@@ -91,7 +97,7 @@ I enjoy working across the full development lifecycle — from creating responsi
 
 ---
 
-## 🔥 Cloud & Backend Services
+### 🔥 Cloud & Backend Services
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase" />
@@ -103,7 +109,7 @@ I enjoy working across the full development lifecycle — from creating responsi
 
 ---
 
-## 🛠️ Tools
+### 🛠️ Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" />
@@ -119,13 +125,13 @@ I enjoy working across the full development lifecycle — from creating responsi
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=nawin24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="./profile/stats.svg"
     height="180"
-    alt="GitHub Stats"
+    alt="GitHub Statistics"
   />
 
 <img
- src="https://github-readme-stats.shion.dev/api/top-langs/?username=nawin24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+ src="./profile/top-langs.svg"
  height="180"
  alt="Top Languages"
 />
@@ -138,13 +144,13 @@ I enjoy working across the full development lifecycle — from creating responsi
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=nawin24&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="./profile/streak.svg"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
 <p align="center">
-  <b>🔥 Highest Streak: 7 Days</b>
+  🔥 <b>Highest Streak: 7 Days</b>
 </p>
 
 ---
@@ -168,19 +174,14 @@ I enjoy working across the full development lifecycle — from creating responsi
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/nawin24/nawin24/output/github-snake-dark.svg"
     />
-
-```
-<source
-  media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/nawin24/nawin24/output/github-snake.svg"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/nawin24/nawin24/output/github-snake.svg"
-  alt="GitHub Contribution Snake Animation"
-/>
-```
-
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nawin24/nawin24/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/nawin24/nawin24/output/github-snake.svg"
+      alt="GitHub Contribution Snake Animation"
+    />
   </picture>
 </p>
 
@@ -220,24 +221,24 @@ Cloud & Firebase           ████████████████░�
 # 🔄 My Development Workflow
 
 ```text
-       💡 Idea
-         │
-         ▼
-    🎨 Design
-         │
-         ▼
-   💻 Development
-         │
-         ▼
-    🧪 Testing
-         │
-         ▼
-    🚀 Deployment
-         │
-         ▼
-    📊 Improve
-         │
-         └──────────────► 🔁 Repeat
+             💡 IDEA
+                │
+                ▼
+          🎨 DESIGN
+                │
+                ▼
+       💻 DEVELOPMENT
+                │
+                ▼
+          🧪 TESTING
+                │
+                ▼
+         🚀 DEPLOYMENT
+                │
+                ▼
+          📊 IMPROVE
+                │
+                └─────────────── 🔁 REPEAT
 ```
 
 ---
@@ -246,7 +247,7 @@ Cloud & Firebase           ████████████████░�
 
 > **Build. Learn. Improve. Repeat.**
 
-I believe that every line of code is an opportunity to learn something new and every project is an opportunity to become a better developer.
+I believe every line of code is an opportunity to learn something new and every project is an opportunity to become a better developer.
 
 ---
 
@@ -255,15 +256,24 @@ I believe that every line of code is an opportunity to learn something new and e
 <p align="center">
 
 <a href="mailto:nawinbg24@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
 </a>
 
 <a href="https://github.com/nawin24">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/nawin-b-5829b1254/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 </p>
