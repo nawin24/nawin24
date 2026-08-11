@@ -125,17 +125,16 @@ I enjoy working across the full development lifecycle — from responsive fronte
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
+    src="https://github-readme-stats.vercel.app/api?username=nawin24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
     height="180"
     alt="GitHub Statistics"
   />
 
-<img
- src="./profile/top-langs.svg"
- height="180"
- alt="Top Languages"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawin24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -180,11 +179,10 @@ I enjoy working across the full development lifecycle — from responsive fronte
     />
     <img
       src="https://raw.githubusercontent.com/nawin24/nawin24/output/github-snake.svg"
-      alt="GitHub Contribution Snake Animation"
+      alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
-
 ---
 
 # 🌱 Currently Exploring
