@@ -1,1 +1,42 @@
+name: Update GitHub Analytics
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: cicirello/user-statistician@v2
+        with:
+          image-directory: profile
+          image-file-name: stats.svg
+          include-commits: true
+          include-issues: true
+          include-pull-requests: true
+          include-repositories: true
+
+      - name: Generate Top Languages
+        uses: cicirello/user-statistician@v2
+        with:
+          image-directory: profile
+          image-file-name: top-langs.svg
+          include-commits: true
+
+      - name: Commit statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "Update GitHub analytics"
+          git push
