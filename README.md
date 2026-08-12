@@ -20,11 +20,24 @@
 
 I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate about building modern, scalable and user-focused applications.
 
+I enjoy working across the full development lifecycle — from responsive frontend interfaces to backend systems, APIs, databases, mobile applications and cloud-integrated solutions.
+
+- 💻 Full Stack Developer at **Zentroworld**
+- ⚛️ React, JavaScript & TypeScript
+- 🐍 Python & AI / Machine Learning
+- 📱 Flutter & Dart
+- 🗄️ PostgreSQL, MongoDB & SQL
+- 🔥 Firebase
+- 🎨 Bootstrap
+- 🌐 Modern Web Development
+- 🚀 Full Stack Application Development
+- 🌱 Always learning and building
+
 ---
 
 # 💻 Tech Stack
 
-### 🌐 Frontend Development
+## 🌐 Frontend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" />
@@ -36,7 +49,7 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 
 ---
 
-### ⚙️ Backend & Programming
+## ⚙️ Backend & Programming
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nodejs,dart" />
@@ -48,7 +61,7 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 
 ---
 
-### 📱 Mobile Development
+## 📱 Mobile Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
@@ -60,7 +73,7 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 
 ---
 
-### 🤖 AI & Machine Learning
+## 🤖 AI & Machine Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
@@ -72,7 +85,7 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 
 ---
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
@@ -84,7 +97,7 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 
 ---
 
-### 🔥 Cloud & Backend Services
+## 🔥 Cloud & Backend Services
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase" />
@@ -96,7 +109,7 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 
 ---
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" />
@@ -107,21 +120,20 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 </p>
 
 ---
+
 # 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=nawin24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    src="./profile/stats.svg"
     height="180"
     alt="GitHub Statistics"
   />
-
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=nawin24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="./profile/top-langs.svg"
     height="180"
     alt="Top Languages"
   />
-</p>
 </p>
 
 ---
@@ -130,13 +142,9 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=nawin24&theme=tokyonight&hide_border=true"
+    src="./profile/streak.svg"
     alt="GitHub Streak"
   />
-</p>
-
-<p align="center">
-  <b>🔥 Highest Streak: 7 Days</b>
 </p>
 
 ---
@@ -200,87 +208,3 @@ Mobile Development         ████████████████░�
 AI & Machine Learning      ███████████████░░░░░
 Database Development       █████████████████░░░
 Cloud & Firebase           ████████████████░░░░
-```
-
----
-
-# 🔄 My Development Workflow
-
-```text
-             💡 IDEA
-                │
-                ▼
-           🎨 DESIGN
-                │
-                ▼
-       💻 DEVELOPMENT
-                │
-                ▼
-          🧪 TESTING
-                │
-                ▼
-         🚀 DEPLOYMENT
-                │
-                ▼
-          📊 IMPROVE
-                │
-                └─────────────── 🔁 REPEAT
-```
-
----
-
-# 💭 Developer Philosophy
-
-> **Build. Learn. Improve. Repeat.**
-
-I believe every line of code is an opportunity to learn something new and every project is an opportunity to become a better developer.
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:nawinbg24@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
-  />
-</a>
-
-<a href="https://github.com/nawin24">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/nawin-b-5829b1254/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-</p>
-
----
-
-# 💭 Random Developer Quote
-
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-    alt="Developer Quote"
-  />
-</p>
-
----
-
-<p align="center">
-  <b>🚀 Building Today • Learning Everyday • Creating Tomorrow</b>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
