@@ -43,7 +43,7 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 </p>
 
 <p align="center">
-  <b>Python • JavaScript • TypeScript • Dart</b>
+  <b>JavaScript • TypeScript • Dart</b>
 </p>
 
 ---
@@ -179,6 +179,5 @@ Full Stack Development     █████████████████�
 Frontend Development       ███████████████████░
 Backend Development        ██████████████████░░
 Mobile Development         ████████████████░░░░
-AI & Machine Learning      ███████████████░░░░░
 Database Development       █████████████████░░░
 Cloud & Firebase           ████████████████░░░░
