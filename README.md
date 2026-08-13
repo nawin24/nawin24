@@ -163,8 +163,6 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 
 `⚛️ Advanced React` •
 `📘 TypeScript` •
-`🐍 Python` •
-`🤖 AI / ML` •
 `📱 Flutter` •
 `🔥 Firebase` •
 `🗄️ PostgreSQL` •
