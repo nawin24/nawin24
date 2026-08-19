@@ -140,21 +140,6 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 
 ---
 
-# 🌱 Currently Exploring
-
-<p align="center">
-
-`⚛️ Advanced React` •
-`📘 TypeScript` •
-`📱 Flutter` •
-`🔥 Firebase` •
-`🗄️ PostgreSQL` •
-`🍃 MongoDB`
-
-</p>
-
----
-
 # 🧠 Development Focus
 
 ```text
