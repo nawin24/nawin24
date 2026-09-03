@@ -108,16 +108,7 @@ I'm a **Full Stack Developer** currently working at **Zentroworld**, passionate 
 
 ---
 
-# 📈 Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nawin24&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
 
 # 🐍 Contribution Snake
 
